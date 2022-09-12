@@ -4,7 +4,7 @@ import favicon from "../public/favicon.ico";
 
 const PageWrapper = ({children}, props) => {
   return (
-    <div className="bg-[#131313]">
+    <div className="bg-[#131313] font-sans">
       <Head>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta name="description" content="Home" />

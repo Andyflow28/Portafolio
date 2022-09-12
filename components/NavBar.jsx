@@ -10,7 +10,7 @@ const NavBar = () => {
   const open = "sm:block sm:w-4/6";
   const [menu, setMenu] = useState(close);
   return (
-    <div className={"sm:flex sm:justify-center sm:py-8 bg-[#131313] " + styles.menu_fixed}>
+    <div className={"sm:flex sm:justify-center sm:py-8 bg-[#131313] font-sans " + styles.menu_fixed}>
       <div className={"bg-[#0A0A0A] sm:flex sm:justify-between sm:items-center sm:w-[90%] sm:rounded-3xl shadow-10xl shadow-gray-800 "}>
         <div className="flex justify-between cursor-pointer">
           <div className="flex mx-5 my-3 sm:mx-8">

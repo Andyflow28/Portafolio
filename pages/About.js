@@ -8,7 +8,7 @@ const About = () => {
       <Head>
         <title>Inicio</title>
       </Head>
-      <div className="bg-[#131313] h-screen sm:pt-48 flex sm:justify-around sm:flex-row flex-col pt-28">
+      <div className="bg-[#131313] h-screen sm:pt-48 flex sm:justify-around sm:flex-row flex-col pt-28 font-sans">
         <div className="sm:bg-[#0A0A0A] bg-[#131313] sm:w-6/12 text-white sm:h-[45rem] sm:rounded-3xl shadow-2xl shadow-gray-800">
           <div className="px-8 py-6 flex flex-col">
             <h2 className="mb-5 text-4xl font-semibold">

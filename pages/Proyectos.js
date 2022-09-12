@@ -10,7 +10,7 @@ const Proyectos = () => {
       <Head>
         <title>Proyectos</title>
       </Head>
-      <div className="bg-[#131313] h-screen pt-48 flex sm:justify-around flex-col sm:flex-row">
+      <div className="bg-[#131313] h-screen pt-48 flex sm:justify-around flex-col sm:flex-row font-sans">
         <div className="sm:w-5/12 h-[30rem]">
           <Link href={"https://tropicalwhy.vercel.app/"}>
             <a

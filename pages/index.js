@@ -9,7 +9,7 @@ export default function Home() {
       <Head>
         <title>Inicio</title>
       </Head>
-      <div className="h-screen">
+      <div className="h-screen font-sans">
         <div>
           <div className="flex flex-col justify-center w-full items-center sm:pt-80 pt-52 text-center">
             <h2 className="text-white font-semibold sm:text-5xl text-4xl mb-5">¡Hola!, Soy Andres Flores</h2>
